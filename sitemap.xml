@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://don1031010.github.io/blog/dir1/</loc>
+    <lastmod>2024-06-20T10:15:16+09:00</lastmod>
+  </url><url>
     <loc>https://don1031010.github.io/blog/</loc>
-    <lastmod>2024-06-19T23:30:37+09:00</lastmod>
+    <lastmod>2024-06-20T10:15:16+09:00</lastmod>
   </url><url>
     <loc>https://don1031010.github.io/blog/posts/my-third-post/</loc>
     <lastmod>2024-06-19T23:30:37+09:00</lastmod>
@@ -18,6 +21,8 @@
     <lastmod>2024-06-19T22:22:37+09:00</lastmod>
   </url><url>
     <loc>https://don1031010.github.io/blog/categories/</loc>
+  </url><url>
+    <loc>https://don1031010.github.io/blog/moods/</loc>
   </url><url>
     <loc>https://don1031010.github.io/blog/tags/</loc>
   </url>
